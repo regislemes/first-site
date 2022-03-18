@@ -1,0 +1,45 @@
+/* RESET */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1em;
+    line-height: 1.42857143;
+    color: rgb(248, 248, 248);
+    text-align: center;
+    background-color: black;
+}
+
+
+video {
+    width: 50%;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    border: 5px solid yellow;
+}
+
+a {
+    text-decoration : none;
+    background-color: yellow;
+    color: rgb(0, 0, 0);
+    padding: 15px; 
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+a:hover {
+    background-color: rgb(11, 8, 173);
+    color: white
+}
+
+  p {  
+      margin: 10px; 0;
+  }
